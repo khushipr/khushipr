@@ -39,5 +39,3 @@ My interests are inclined towards coding and programming. I also love to do desi
 
 #### Connect with ME!
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/khushi-prasad-aa78531bb/)
-
-[![LinkedIn Badge](https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667)(https://www.linkedin.com/in/khushi-prasad-aa78531bb/)

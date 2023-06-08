@@ -4,14 +4,14 @@
 
 ***
 
-I'm Khushi Prasad, a Sophomore at Thapar Institute of Engineering & Technology, Patiala.
-At present I am the Core Member of Microsoft Learn Student Chapter, a technical society at TIET.
-My interests are inclined towards coding and programming. I also love to do designing on Photoshop and Illustrator.
+I'm Khushi Prasad, a Pre-Final Year student at Thapar Institute of Engineering & Technology, Patiala.
+At present I am the Event Management Head of Microsoft Learn Student Chapter, a technical society at TIET.
+My interests are inclined towards coding and programming especially Data Analytics. I also love to do designing on Photoshop and Illustrator.
 
 
-- 🌱 I’m currently learning MERN stack and Data Structures
-- 👯 I’m looking to collaborate on Frontend Projects
-- 🤔 I’m looking for help with MERN stack
+- 🌱 I’m currently learning Data Analytics and Data Structures
+- 👯 I’m looking to collaborate on Data Analytics Projects
+- 🤔 I’m looking for help with Data Science and Analysis
 - 📫 How to reach me: <khushipr01@gmail.com>
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: This is reality.
